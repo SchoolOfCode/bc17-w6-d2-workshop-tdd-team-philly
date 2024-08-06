@@ -59,9 +59,9 @@ We'll keep extending the functionality in small increments.
 
 Time to dive into action! 🏊‍♂️ Here's what you'll be working on:
 
-### 🎫 Ticket 1 - Setup
+### 🎫 Ticket 1 - Setup ✅
 
-Install Vitest as a dev dependency. If you need a refresher, search online for how to install Vitest and how to have it run your tests.
+Install Vitest as a dev dependency. If you need a refresher, search online for how to install Vitest and how to have it run your tests. 
 
 ### 🎫 Ticket 2 - Single letters
 
