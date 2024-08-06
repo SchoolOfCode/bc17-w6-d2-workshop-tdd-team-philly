@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Simple codebase for trying TDD",
   "scripts": {
-    "test" : "scrabble-score.test.js"
+    "test" : "vitest"
   },
   "type": "module",
   "author": "Rob Styles",
