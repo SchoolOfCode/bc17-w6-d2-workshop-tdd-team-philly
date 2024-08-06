@@ -69,6 +69,7 @@ Install Vitest as a dev dependency. If you need a refresher, search online for h
    - Once you've written the test, run the tests with Vitest.
    - The test you wrote should fail at first. This is because you wrote the test before writing the code to make it pass.
    - This is the "red" stage in the TDD cycle (red -> green -> refactor)
+
 2. Now add the simplest code you can to the `calculateScrabbleScore` function. Make it return the right score for the word "A" to pass the failing test.
    - Once you've updated the implementation, run the tests again.
    - This time the test should pass (if your implementation is correct).
